@@ -632,6 +632,11 @@ video {
   margin-right: auto;
 }
 
+.mx-20 {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
 .my-8 {
   margin-top: 2rem;
   margin-bottom: 2rem;
@@ -768,7 +773,7 @@ video {
 }
 
 .ml-16 {
-  margin-left: 4rem;
+    margin-left: 4rem;
 }
 
 .mr-16 {
